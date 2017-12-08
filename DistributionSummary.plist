@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ADarts.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A866EEE044522A94F896C3D8B6FD5D4130B5C399</string>
+				<key>dateExpires</key>
+				<string>06/12/2018</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>PGXCZWP75B.com.cloudtopo.ADarts.member.demo</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>PGXCZWP75B</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>ADarts.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>e4669c0d-7217-452b-b767-658c8911b921</string>
+				<key>name</key>
+				<string>ADarts-member</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>PGXCZWP75B</string>
+				<key>name</key>
+				<string>Shenzhen Huateli Science &amp; Technology Co., Ltd.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
